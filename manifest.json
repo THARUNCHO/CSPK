@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "CSPK",
+  "short_name": "CSPK",
+  "description": "Farm fresh pooja coconuts delivered directly to homes, temples, shops, and caterers across Hyderabad.",
+  "start_url": "https://cspk-fresh-coconut.ai.studio/",
+  "scope": "https://cspk-fresh-coconut.ai.studio/",
+  "display": "standalone",
+  "orientation": "any",
+  "dir": "ltr",
+  "lang": "en",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "categories": [
+    "food"
+  ],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
